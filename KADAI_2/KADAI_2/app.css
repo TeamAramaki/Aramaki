@@ -1,0 +1,15 @@
+﻿body
+{
+    font-family: 'Segoe UI', sans-serif;
+         background: url('img/bg2.jpg');
+}
+
+span {
+    font-style: italic
+}
+.notBombed {
+    opacity: 0.2;
+    background:  url('img/bg.jpg') repeat;
+    /*background-color: black;*/
+    z-index: 0;
+}

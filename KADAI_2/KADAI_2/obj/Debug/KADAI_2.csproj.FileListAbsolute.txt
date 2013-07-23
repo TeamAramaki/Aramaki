@@ -1,0 +1,5 @@
+c:\users\imamatsu\documents\visual studio 2012\Projects\KADAI_2\KADAI_2\bin\KADAI_2.dll
+c:\users\imamatsu\documents\visual studio 2012\Projects\KADAI_2\KADAI_2\bin\KADAI_2.pdb
+c:\users\imamatsu\documents\visual studio 2012\Projects\KADAI_2\KADAI_2\obj\Debug\KADAI_2.dll
+c:\users\imamatsu\documents\visual studio 2012\Projects\KADAI_2\KADAI_2\obj\Debug\KADAI_2.pdb
+c:\users\imamatsu\documents\visual studio 2012\Projects\KADAI_2\KADAI_2\obj\Debug\KADAI_2.csprojResolveAssemblyReference.cache
